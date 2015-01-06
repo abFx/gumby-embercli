@@ -1,5 +1,18 @@
 {
-  "name": "gumby",
+  "name": "gumby-ember",
   "version": "2.6.3",
-  "main": ["./js/libs/gumby.min.js", "./css/gumby.css"]
+  "main": [
+    "./js/libs/gumby.min.js",
+    "./css/gumby.css"
+  ],
+  "homepage": "https://github.com/abFx/gumby-embercli",
+  "authors": [
+    "digital-surgeons",
+    "people"
+  ],
+  "description": "gumby updated with new modular-scale",
+  "keywords": [
+    "gumbyframework",
+    "ember-cli"
+  ],
 }
